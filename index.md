@@ -107,7 +107,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 {% endif %}
 <strong>Where:</strong>
-This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link to use for this event is https://carpentries.zoom.us/my/carpentriesroom1. 
+This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link to use for this event is <a href="https://carpentries.zoom.us/my/carpentriesroom1">https://carpentries.zoom.us/my/carpentriesroom1</a>. 
 
 <p>
   <strong>Requirements:</strong> Participants should bring a laptop
